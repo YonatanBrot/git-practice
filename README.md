@@ -1,2 +1,2 @@
 # git-practice
-This is my first Git repository
+This is my first Git repository (no its not)
